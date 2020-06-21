@@ -1,0 +1,140 @@
+{
+    "profile": [
+        {
+            "data": {
+                "name": "Krishna",
+                "role": "Student",
+                "pin": "17551A0585",
+                "phone": "758361209",
+                "email": "krishna.koppera@gmail.com",
+                "carrier": "My objective is to work in a professional atmosphere which would utilize my knowledge and skills and provide myself the scope for widening the spectrum of my knowledge and to secure the position that gives professional satisfaction.",
+                "education": [
+                    {
+                        "id": 1,
+                        "grad": "S.S.C",
+                        "name": "Thrividha High School",
+                        "board": "Board of Secondary Education",
+                        "percent": "93",
+                        "year": "2015"
+                    },
+                    {
+                        "id": 2,
+                        "grad": "Intermediate",
+                        "name": "Sri Gayatri Junior College",
+                        "board": "Board of Intermediate",
+                        "percent": "88",
+                        "year": "2017"
+                    },
+                    {
+                        "id": 3,
+                        "grad": "B.Tech",
+                        "name": "Godavari Institute of Engineering and Technology",
+                        "board": "JNTUK",
+                        "percent": "80",
+                        "year": "2021"
+                    }
+                ],
+                "skills": [
+                    {
+                        "skill": "Java"
+                    },
+                    {
+                        "skill": "Python"
+                    },
+                    {
+                        "skill": "Html"
+                    },
+                    {
+                        "skill": "CSS"
+                    }
+                ],
+                "hobbies": [
+                    {
+                        "hobby": "Playing Cricket"
+                    },
+                    {
+                        "hobby": "Listening Music"
+                    }
+                ],
+                "Interests": [
+                    {
+                        "int": "Coding"
+                    },
+                    {
+                        "int": "Testing"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "name": "Raju",
+                "role": "Student",
+                "pin": "17551A0500",
+                "phone": "758365609",
+                "email": "raju.khtghh@gmail.com",
+                "education": [
+                    {
+                        "id": 1,
+                        "grad": "S.S.C",
+                        "name": "Kumar High School",
+                        "board": "Board of Secondary Education",
+                        "percent": "90",
+                        "year": "2015"
+                    },
+                    {
+                        "id": 2,
+                        "grad": "Intermediate",
+                        "name": "Narayana Junior College",
+                        "board": "Board of Intermediate",
+                        "percent": "85",
+                        "year": "2017"
+                    },
+                    {
+                        "id": 3,
+                        "grad": "B.Tech",
+                        "name": "Aditya College of Engineering and Technology",
+                        "board": "JNTUK",
+                        "percent": "78",
+                        "year": "2021"
+                    },
+                    {
+                        "id": 4,
+                        "grad": "M.Tech",
+                        "name": "Aditya College of Engineering and Technology",
+                        "board": "JNTUK",
+                        "percent": "67",
+                        "year": "2023"
+                    }
+                ],
+                "skills": [
+                    {
+                        "skill": "Java"
+                    },
+                    {
+                        "skill": "Angular8"
+                    },
+                    {
+                        "skill": "ReactJS"
+                    }
+                ],
+                "hobbies": [
+                    {
+                        "hobby": "Reading Books"
+                    },
+                    {
+                        "hobby": "Painting"
+                    }
+                ],
+                "Interests": [
+                    {
+                        "int": "Designing"
+                    },
+                    {
+                        "int": "Gaming"
+                    }
+                ]
+            }
+        }
+    ]
+}
